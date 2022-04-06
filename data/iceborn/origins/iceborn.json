@@ -1,0 +1,17 @@
+{
+	"powers":[
+	   "iceborn:frost_breath",
+	   "iceborn:cold_touch",
+	   "iceborn:blue_skin",
+	   "iceborn:ice_cold",
+	   "iceborn:ice_melts",
+	   "iceborn:icy_tundra_spawn",
+	   "iceborn:valley_of_heat",
+	   "iceborn:on_the_valley_of_death"
+	],
+	"icon":"minecraft:blue_ice",
+	"order":10,
+	"impact":2,
+	"name":"Iceborn",
+	"description":"A contrast to the Blazeborn. Iceborns live in the snowy tundras of the overworld, ruling over the cold wasteland."
+}

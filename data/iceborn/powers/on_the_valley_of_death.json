@@ -1,0 +1,21 @@
+{
+	"name":"On The Valley Of Death",
+	"description":"After being some time in the Desert, your body begins to melt and you start to take damage at a unprecedented rate.",
+	"type":"origins:damage_over_time",
+	"interval":20,
+	"onset_delay":1200,
+	"damage":2,
+	"damage_easy":1,
+	"damage_source":{
+	   "name":"dryout",
+	   "unblockable":true,
+	   "bypasses_armor":false
+	},
+	"condition":{
+	   "type":"origins:biome",
+	   "condition":{
+		  "type":"origins:category",
+		  "category":"desert"
+	   }
+	}
+}
