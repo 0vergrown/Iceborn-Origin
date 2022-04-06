@@ -3,7 +3,7 @@
 </p>
 
 # Iceborn Origin - Origins (Fabric) For Minecraft 1.18
-This is a comissioned Origin, its a VERY simple one so I really don't see the need to upload it or give it much detail as the others. But sometimes simple is useful so maybe I'll come back to this one in the future, who knows. But this Origin is very balanced overall.
+This is a commissioned Origin, its a VERY simple one so I really don't see the need to upload it or give it much detail as the others. But sometimes simple is useful so maybe I'll come back to this one in the future, who knows. But this Origin is very balanced overall.
 
 Iceborn datapack is made for the fabric mod, [Origins](https://www.curseforge.com/minecraft/mc-mods/origins). You must have it for this pack to work.
 
@@ -18,7 +18,7 @@ Description: A contrast to the Blazeborn. Iceborns live in the snowy tundras of 
 
 *Positive 🟢:*
 
-- **Frost Breath:** Your breathing is cold. You have the natural abiltiy to shoot a puff of cold ice that feezes enemies. (Primary)
+- **Frost Breath:** Your breathing is cold. You have the natural ability to shoot a puff of cold ice that freezes enemies. (Primary)
 - **Cold Touch:** Applies the Wither and Slowness effect on your opponent for a short period of time after hitting them, on a cooldown.
 - **Ice Cold:** Due to your body being made of cold, hard ice. You take have a bit more resistance than others.
 
